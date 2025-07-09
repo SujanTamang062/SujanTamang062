@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Tamang</h1>
-<h3 align="center">A passionate full stack developer from Nepal</h3>
+<h3 align="center">A passionate Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujantamang062&label=Profile%20views&color=0e75b6&style=flat" alt="sujantamang062" /> </p>
 
