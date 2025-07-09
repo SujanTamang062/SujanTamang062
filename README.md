@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sujan Tamang</h1>
-<h3 align="center">A passionate Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Sujan Tamang</span></h1>
+<h3 align="center">🚀 A Passionate Tech Enthusiast | 💻 Coding my way to the future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujantamang062&label=Profile%20views&color=0e75b6&style=flat" alt="sujantamang062" /> </p>
 
